@@ -12,6 +12,8 @@ N/A
 
 User accessibility features can be found by opening the web page in a Chrome browser and using the Inspect option to access the Chrome Developer Tools.
 
+Website URL: (https://bechedley.github.io/challenge-week-1/)
+
     ```md
     ![Screenshot of webpage with splitscreen showing the Chrome dev tools window](assets\images\screenshot-horizons-devtools.png)
     ```

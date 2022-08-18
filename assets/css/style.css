@@ -1,3 +1,4 @@
+/*Consolidated font colour into universal styles, as applied to all*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,6 +6,7 @@
     color: #ffffff;
 }
 
+/*Consolidated font-family and default font-size into body*/
 body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
@@ -16,6 +18,7 @@ header {
     background-color: #2a607c;
 }
 
+/*Kept the header h1 styling separate to avoid interfering with the seo styling span*/
 header h1 {
     display: inline-block;
 }
@@ -24,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Updated nav font-size to match H3 relative sizing but as per subsequent stylings but left separate to avoid conflicts with text-align*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,6 +48,8 @@ nav ul li {
 a {
     text-decoration: none;
 }
+
+/*Consolidated H1 font-size and font-family stylings and updated all header font-size to relative em measurements for improved accessibility*/
 
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -93,6 +99,8 @@ aside {
     height: 100%;
     background-color: #2589bd;
 }
+
+/*Differentiated from H3 with bottom margin, which would have affected the footer*/
 
 aside h3 {
     margin-bottom: 10px;
