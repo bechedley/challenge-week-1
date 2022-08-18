@@ -24,13 +24,15 @@ Starter code and image assets provided by Horiseon Social Solution Services copy
 
 The following resources were referenced to ensure best practice and adherence to current user accessibility standards:
 
-Reference guidelines for accessibility: W3 Org - How to Meet WCAG 2.0 (https://www.w3.org/WAI/WCAG20/quickref/20160105/)
+Reference guidelines for accessibility: How to Meet WCAG 2.0 by W3 Org (https://www.w3.org/WAI/WCAG20/quickref/20160105/)
 
-Online px to em font converter: W3 Schools - CSS PX to EM Conversion (https://www.w3schools.com/cssref/css_pxtoemconversion.asp)
+Online px to em font converter: CSS PX to EM Conversion by W3 Schools (https://www.w3schools.com/cssref/css_pxtoemconversion.asp)
 
 Adding accessibility elements to background images: Stack Overflow - How to Make Background Images Accessible? as answered by user=Null on April 13 2020 (https://stackoverflow.com/questions/41942992/how-to-make-background-image-accessible)
 
 Semantic HTML reference sheet: W3 Schools - HTML Element Reference (https://www.w3schools.com/tags/default.asp)
+
+Colour contrast test: A11Y Color Contrast Accessibility Validator by A11Y Company (https://color.a11y.com/?wc3)
 
 
 ## License
